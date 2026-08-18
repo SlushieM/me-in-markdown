@@ -1,5 +1,5 @@
 # me-in-markdown
-
+![Collage](<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/61344aeb-4a03-4f67-b126-6fb8ed780c0d" />)
 # Summer Songs
 [This is a link to my Spotify Playlist](https://open.spotify.com/playlist/0aZeczt6bZ7EMYcZkUQVzE?si=9rIUp8DFQKOvbCYzY9UCcA)
 
