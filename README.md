@@ -1,6 +1,6 @@
 # me-in-markdown
 # Images that describe me and my favorite things:
-![My Collage](<img width="1920" height="1080" alt="Collage" src="https://github.com/user-attachments/assets/43376f92-d005-4f75-8c5b-ed45083e7abb" />
+![My Collage](Collage.png
 )
 # Summer Songs
 [This is a link to my Spotify Playlist](https://open.spotify.com/playlist/0aZeczt6bZ7EMYcZkUQVzE?si=9rIUp8DFQKOvbCYzY9UCcA)
